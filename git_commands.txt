@@ -1,0 +1,31 @@
+ 7 ls
+git init
+rm testing.py
+ git init
+  11 git init
+  12 dir
+  13 git status
+  14 dir
+  15 ls -Force .git
+  16 dir -Force
+  17 dir -Force
+  18 & C:/Users/yhi364/AppData/Local/Programs/Python/Python314/python.exe "c:/Users/yhi364/OneDrive - Corteva/Document...
+  19 git status
+  20 git add testing.py
+  21 gir rm--cache
+  22 git rm--cache testing.py
+  23 gir rm--cached
+  24 gir rm--cached
+  25 git rm--cached
+  26 git rm --cached testing.py
+  27 git status
+  28 git add.
+  29 git status
+  30 git add .
+  31 git status
+  32 git commit -m "added testing files"
+  33 git status
+  34 rm testing.py
+  35 ls
+  36 git status
+  37 git restore testing.py
